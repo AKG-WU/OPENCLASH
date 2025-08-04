@@ -1,56 +1,75 @@
-# NAME: HBO
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-15 02:13:02
-# DOMAIN-SUFFIX: 47
+# NAME: Emby
+# AUTHOR: justdoiting
+# REPO: https://github.com/justdoiting/emby-rules
+# UPDATED: 2025-06-06 09:18:50
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 45
 # PROCESS-NAME: 1
-# TOTAL: 48
-DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
-DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
-DOMAIN-SUFFIX,cinemax.com
-DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net
-DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
-DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,forthethrone.com
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbo.com.c.footprint.net
-DOMAIN-SUFFIX,hbo.com.edgesuite.net
-DOMAIN-SUFFIX,hbo.map.fastly.net
-DOMAIN-SUFFIX,hboasia.com
-DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
-DOMAIN-SUFFIX,hboasia2-i.akamaihd.net
-DOMAIN-SUFFIX,hboasia3-i.akamaihd.net
-DOMAIN-SUFFIX,hboasia4-i.akamaihd.net
-DOMAIN-SUFFIX,hboasia5-i.akamaihd.net
-DOMAIN-SUFFIX,hboasialive.akamaized.net
-DOMAIN-SUFFIX,hbogeo.cust.footprint.net
-DOMAIN-SUFFIX,hbogo.co.th
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbogo.eu
-DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN-SUFFIX,hbogoasia.hk
-DOMAIN-SUFFIX,hbogoasia.id
-DOMAIN-SUFFIX,hbogoasia.ph
-DOMAIN-SUFFIX,hbogoasia.sg
-DOMAIN-SUFFIX,hbogoasia.tw
-DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net
-DOMAIN-SUFFIX,hbolb.onwardsmg.com
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
-DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
-DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,hbounify-prod.evergent.com
-DOMAIN-SUFFIX,manifest.prod.boltdns.net
-DOMAIN-SUFFIX,max.com
-DOMAIN-SUFFIX,maxgo.com
-DOMAIN-SUFFIX,now-ashare.com
-DOMAIN-SUFFIX,now-tv.com
-DOMAIN-SUFFIX,now.com
-DOMAIN-SUFFIX,now.com.hk
-DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,nowe.hk
-DOMAIN-SUFFIX,players.brightcove.net
-DOMAIN-SUFFIX,warnermediacdn.com
-DOMAIN-SUFFIX,youboranqs01.com
-DOMAIN-SUFFIX,discomax.com
-PROCESS-NAME,com.hbo.hbonow
+# TOTAL: 52
+DOMAIN,emby.enjoyit.eu.org
+DOMAIN,emby.lcloud.wiki
+DOMAIN,notnetflix.cos.cat
+DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,agajp1.jmsooo.com
+DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
+DOMAIN-SUFFIX,cristiamo.xyz
+DOMAIN-SUFFIX,emby.cjpc.cc
+DOMAIN-SUFFIX,emby.cjpc.tv
+DOMAIN-SUFFIX,emby.cjpc.xyz
+DOMAIN-SUFFIX,emby.cristiamo.top
+DOMAIN-SUFFIX,emby.flowercloud.yt
+DOMAIN-SUFFIX,emby.immtel.com
+DOMAIN-SUFFIX,emby.maying.club
+DOMAIN-SUFFIX,emby.mcwy.me
+DOMAIN-SUFFIX,emby.mdss.cloud
+DOMAIN-SUFFIX,emby.neko.edu.rs
+DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN-SUFFIX,emby.nyancat.net
+DOMAIN-SUFFIX,emby.ok.edu.hk
+DOMAIN-SUFFIX,emby.paoche.ooo
+DOMAIN-SUFFIX,emby.prprcloud.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,embyserver.ga
+DOMAIN-SUFFIX,hinet.jmsooo.com
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,jellyfin.asia
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,line.emby.men
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,ntt1.jmsooo.com
+DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,odysseyplus
+PROCESS-NAME,com.mb.android
+DOMAIN-SUFFIX,us4.staryuki.me
+DOMAIN-SUFFIX,cf.sfcj.org
+DOMAIN-SUFFIX,emby.wenjian.de 
+DOMAIN-SUFFIX,us.nanflix.net
+DOMAIN-SUFFIX,public.shrekmedia.org
+DOMAIN-SUFFIX,hka-emby.aliz.work
+DOMAIN-SUFFIXzoxfree.3767483.xyz
+DOMAIN-SUFFIX,de2.staryuki.me
+DOMAIN-SUFFIX,jsq.vban.xyz
+DOMAIN-SUFFIX,gm.yezi.my
+DOMAIN-SUFFIX,cf.lilyemby.my
+DOMAIN-SUFFIX,bps8m.onyra.cc
+DOMAIN-SUFFIX,m.mobaiemby.site
+DOMAIN-SUFFIX,emby.oceancloud.asia
