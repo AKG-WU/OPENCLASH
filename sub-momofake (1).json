@@ -41,6 +41,12 @@
       "strict_route": false,
       "endpoint_independent_nat": true,
       "stack": "gvisor"
+    },
+    {
+      "type": "dns",
+      "tag": "dns-in",
+      "listen": "0.0.0.0",
+      "listen_port": 53
     }
   ],
   "outbounds": [
@@ -439,5 +445,35 @@
       { "clash_mode": "rule", "outbound": "其他" }
     ],
     "final": "其他"
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "direct_dns",
+        "address": "223.5.5.5"
+      },
+      {
+        "tag": "proxy_dns",
+        "address": "8.8.4.4",
+        "detour": "国外"
+      }
+    ],
+    "rules": [
+      {
+        "rule_set": "china_domain",
+        "server": "direct_dns"
+      },
+      {
+        "rule_set": "china_ip",
+        "server": "direct_dns"
+      },
+      {
+        "rule_set": "private_domain",
+        "server": "direct_dns"
+      }
+    ],
+    "final": "proxy_dns",
+    "fallback_cache": false,
+    "fallback_strategy": "fallback"
   }
 }
