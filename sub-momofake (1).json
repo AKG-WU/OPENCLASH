@@ -43,10 +43,11 @@
       "stack": "gvisor"
     },
     {
-      "type": "dns",
-      "tag": "dns-in",
-      "listen": "0.0.0.0",
-      "listen_port": 53
+  "type": "dns",
+  "tag": "dns-in",
+  "listen": "0.0.0.0",
+  "listen_port": 53,
+  "network": "udp" // 明确指定只监听UDP协议，避免潜在循环问题:cite[8]
     }
   ],
   "outbounds": [
