@@ -76,11 +76,10 @@
       "sniff": true
     },
     {
-      "type": "dns",
       "tag": "dns-in",
-      "listen": "0.0.0.0",
-      "listen_port": 53,
-      "network": "udp"
+      "type": "direct",
+      "listen": "::",
+      "listen_port": 1053
     }
   ],
   "outbounds": [
