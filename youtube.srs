@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "staryuki.me",
+        "sfcj.org",
+        "emby.wenjian.de",
+        "nanflix.net",
+        "public.shrekmedia.org",
+        "aliz.work",
+        "zoxfree.3767483.xyz",
+        "staryuki.me",
+        "vban.xyz",
+        "yezi.my",
+        "lilyemby.my",
+        "onyra.cc",
+        "mobaiemby.site",
+        "oceancloud.asia",
+        "hohai.eu.org",
+        "114514.quest",
+        "staryuki.me.kiven.cc",
+        "oceancloud.asia",
+        "uhdnow.com",
+        "feiniu.lol",
+        "cn2gias.uk",
+        "emby.feiniu.lol",
+        "xueshan.shop",
+        "良心云.com",
+        "svcloud.one",
+        "mitce.net",
+        "llg01.com",
+        "良心云/#/login",
+        "良心云.com/#/dashboard",
+        "free.28.al",
+        "api.rc-backup.com",
+        "api.reflix.top",
+        "handoumedia.top",
+        "embymv.link",
+        "cc.coemn.com",
+        "cc.embycc.link",
+        "playz.mjji.de",
+        "emby.heisi.org",
+        "hka-emby.aliz.work",
+        "kfc.v50.su",
+        "emby.v50.su",
+        "cloudflare.v50.su",
+        "cdn.v50.su"
+      ]
+    }
+  ]
+}
