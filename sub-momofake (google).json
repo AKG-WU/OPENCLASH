@@ -36,7 +36,7 @@
     {"tag": "🍏 Apple", "type": "selector", "outbounds": ["🎯 全球直连", "🇭🇰 香港手动", "TW 台湾手动","🇯🇵 日本手动", "🇸🇬 狮城手动", "🇺🇲 美国手动"]},
     {"tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
     {"tag": "🇭🇰 香港手动", "type": "selector", "outbounds": []},
-     {"tag": "TW 台湾手动", "type": "selector", "outbounds": []},
+    {"tag": "TW 台湾手动", "type": "selector", "outbounds": []},
     {"tag": "🇯🇵 日本手动", "type": "selector", "outbounds": []},
     {"tag": "🇸🇬 狮城手动", "type": "selector", "outbounds": []},
     {"tag": "🇺🇲 美国手动", "type": "selector", "outbounds": []},
