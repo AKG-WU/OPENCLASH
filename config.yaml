@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://another1.264869.xyz/another/dy?token=9e95127cf090c463fbace09aaeef9da2"
+    url: "http://192.168.10.1:3008/T3B9dgzBzdRbBF8Aqx7P/download/collection/sing-box"
     type: http
     interval: 86400
     health-check:
